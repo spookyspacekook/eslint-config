@@ -6,10 +6,6 @@
   "files": [
     "lib"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/spookyspacekook/eslint-config.git"
-  },
   "license": "MIT",
   "author": "spookyspacekook",
   "bugs": {
